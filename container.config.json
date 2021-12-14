@@ -8,12 +8,6 @@
   "policyThreshold": 60,
   "customLogs": "stdout",
   "dataBaseName": "music",
-  "envParams": {
-    "MYSQL_HOST": "10.0.224.15",
-    "MYSQL_USERNAME": "music",
-    "MYSQL_PASSWORD": "Music2021"
-  },
-
   "executeSQLs": [
     "CREATE DATABASE IF NOT EXISTS music;"
   ]
