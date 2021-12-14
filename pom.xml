@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.boyinmedia</groupId>
     <artifactId>boyin-music</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>boyin-music</name>
     <description>boyin-music</description>
     <properties>
